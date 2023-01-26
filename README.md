@@ -1,15 +1,15 @@
 ### NLP Enginner, ML/DL Engineer, Data Scientist
 
-#🔭 I’m currently working on
+##🔭 I’m currently working on
 - PNU AILAB
 
-#🌱 I’m currently learning
+##🌱 I’m currently learning
 - NLP
 - ML/DL
 - Neurol Symbolic
 - etc..
 
-#📫 How to reach me
+##📫 How to reach me
 - tlswndals13@naver.com
 
 <!--

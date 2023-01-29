@@ -25,13 +25,13 @@
 
 
 ## 📽️ Projects
-- Main Project
+# Main Project
 * Research and development of deep learning-based TTS rhyme boundary prediction(KT, 2021.12 - 2022.11)
 * [**Exobrain General 1st Detail - Development of Intelligent Evolutionary WiseQA Platform Technology for Human Knowledge Augmentation Service**](https://github.com/godic97/MCRG-OceanDrone) (_Ministry of Science and ICT & ETRI, 2020.09 - 2022.12_)
 * [**Development of TTS system for navigation pronunciation system**](https://github.com/godic97/Fitravel) (_Navis Automotive Systems, 2021.02 - 12_)
 * [**Development of online deterrence program for SW coding education based on artificial intelligence**](https://github.com/godic97/Fitravel) (_Next Stage, Pusan National University SW Education Center_, 2020.04 - 09)
 
-- Side Project
+# Side Project
 * Artificial neural network based search engine
 * [**AI model-based wheelchair control using EEG signals**](https://github.com/godic97/MCRG-OceanDrone)
 * [**A Study on Voice Recognition and Emotion Analysis Using AWS and Artificial Intelligence**](https://github.com/godic97/MCRG-OceanDrone)

@@ -8,7 +8,7 @@
 * The important thing is the uncrushable mind
 
 ## 🥅 Goals
-* Love & Peace
+* Creative Work & Innovation
 
 ## 💻 Tech Stack 
 

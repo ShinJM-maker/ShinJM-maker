@@ -48,7 +48,7 @@
 - tlswndals13@naver.com
 
 ## GitHub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJM-maker)](https://github.com/깃허브아이디/github-readme-stats)
+[![Joongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJM-maker)](https://github.com/깃허브아이디/github-readme-stats)
 
 <!--
 **ShinJM-maker/ShinJM-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

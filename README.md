@@ -36,12 +36,12 @@
 * [**Development of online deterrence program for SW coding education based on artificial intelligence**](https://github.com/ShinJM-maker/AI-based-Online-OJ) (_Next Stage & Pusan National University SW Education Center_, 2020.04 - 09)
 
 ### Side Project
-* [**Machine reading of economic data**](https://github.com/)
-* Artificial neural network based search engine
+* [**Machine reading of economic data**](https://github.com/ShinJM-maker/Machine-reading-of-economic-data)
+* [**Artificial neural network based search engine**](https://github.com/ShinJM-maker/Artificial-neural-network-based-search-engine)
 * [**Development of a VR-based bicycle sales platform applied with a recommendation system**](https://github.com/ShinJM-maker/Development-of-a-VR-based-bicycle-sales-platform-applied-with-a-recommendation-system)
-* [**A Study on Voice Recognition and Emotion Analysis Using AWS and Artificial Intelligence**](https://github.com/)
+* [**A Study on Voice Recognition and Emotion Analysis Using AWS and Artificial Intelligence**](https://github.com/ShinJM-maker/A-Study-on-Voice-Recognition-and-Emotion-Analysis-Using-AWS-and-Artificial-Intelligence)
 * [**Stock data analysis and visualization application development**](https://github.com/ShinJM-maker/Stock-Analyze)
-* [**Pusan National University Department of Computer Engineering dedicated application development**](https://github.com/)
+* [**Pusan National University Department of Computer Engineering dedicated application development**](https://github.com/ShinJM-maker/Pusan-National-University-Department-of-Computer-Engineering-dedicated-application-development)
 * Creation of historical news discovery and sharing platform
 * [**Development of a platform for student classes using VR**](https://github.com/)
 

@@ -41,7 +41,7 @@
 * [**A Study on Voice Recognition and Emotion Analysis Using AWS and Artificial Intelligence**](https://github.com/)
 * [**Stock data analysis and visualization application development**](https://github.com/ShinJM-maker/Stock-Analyze)
 * [**Pusan National University Department of Computer Engineering dedicated application development**](https://github.com/)
-* [**Creation of historical news discovery and sharing platform**](https://github.com/)
+* Creation of historical news discovery and sharing platform
 * [**Development of a platform for student classes using VR**](https://github.com/)
 
 

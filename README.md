@@ -35,10 +35,11 @@
 * [**Development of online deterrence program for SW coding education based on artificial intelligence**](https://github.com/ShinJM-maker/AI-based-Online-OJ) (_Next Stage & Pusan National University SW Education Center_, 2020.04 - 09)
 
 ### Side Project
+* [**Machine reading of economic data**](https://github.com/)
 * Artificial neural network based search engine
-* [**AI model-based wheelchair control using EEG signals**](https://github.com/)
+* [**Development of a VR-based bicycle sales platform applied with a recommendation system**](https://github.com/)
 * [**A Study on Voice Recognition and Emotion Analysis Using AWS and Artificial Intelligence**](https://github.com/)
-* [**AI model-based wheelchair control using EEG signals**](https://github.com/)
+* [**Stock data analysis and visualization application development**](https://github.com/ShinJM-maker/Stock-Analyze)
 * [**Pusan National University Department of Computer Engineering dedicated application development**](https://github.com/)
 * [**Creation of historical news discovery and sharing platform**](https://github.com/)
 * [**Development of a platform for student classes using VR**](https://github.com/)

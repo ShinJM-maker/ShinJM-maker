@@ -37,7 +37,7 @@
 ### Side Project
 * [**Machine reading of economic data**](https://github.com/)
 * Artificial neural network based search engine
-* [**Development of a VR-based bicycle sales platform applied with a recommendation system**](https://github.com/)
+* [**Development of a VR-based bicycle sales platform applied with a recommendation system**](https://github.com/ShinJM-maker/Development-of-a-VR-based-bicycle-sales-platform-applied-with-a-recommendation-system)
 * [**A Study on Voice Recognition and Emotion Analysis Using AWS and Artificial Intelligence**](https://github.com/)
 * [**Stock data analysis and visualization application development**](https://github.com/ShinJM-maker/Stock-Analyze)
 * [**Pusan National University Department of Computer Engineering dedicated application development**](https://github.com/)

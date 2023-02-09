@@ -22,6 +22,8 @@
 - ML/DL
 - Neurol Symbolic
 - Search Engine
+- TTS System
+- Large AI
 - etc..
 
 

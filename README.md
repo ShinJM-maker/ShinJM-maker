@@ -48,6 +48,7 @@
 * Creation of historical news discovery and sharing platform
 * [**Development of a platform for student classes using VR**](https://github.com/)
 
+## Papers
 
 ## 📫 How to reach me
 - tlswndals13@naver.com

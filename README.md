@@ -1,4 +1,4 @@
-# JOONGMIN SHIN 😵
+# JOONGMIN SHIN 😉
 
 ### NLP Enginner, ML/DL Engineer, Data Scientist
 

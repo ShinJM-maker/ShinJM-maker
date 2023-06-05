@@ -16,7 +16,7 @@
 
 ## 🔭 I’m currently working on
 - [**KU HIAI Research**](http://hiai.korea.ac.kr/)(_2023.06.01~_)
-- [**PNU AILAB**](https://ailab.pusan.ac.kr/ailab/index..do)(_2020.09~_2023.2.24)
+- [**PNU AILAB**](https://ailab.pusan.ac.kr/ailab/index..do)(_2020.09~_2023.2.24_)
 
 ## 🌱 I’m currently learning
 - NLP

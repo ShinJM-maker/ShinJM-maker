@@ -52,6 +52,7 @@
 
 ## 📫 How to reach me
 - tlswndals13@naver.com
+- tlswndals13@korea.ac.kr
 
 ## GitHub stats
 [![Joongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJM-maker)](https://github.com/깃허브아이디/github-readme-stats)

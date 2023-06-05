@@ -24,7 +24,7 @@
 - Neurol Symbolic
 - Search Engine
 - TTS System
-- Large AI
+- Large Langauge Model(LLM)
 - etc..
 
 

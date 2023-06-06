@@ -33,7 +33,7 @@
 * Research and development of deep learning-based TTS rhyme boundary prediction(KT, 2021.12 - 2022.11)
   * [**Project-KT-Parser**](https://github.com/ShinJM-maker/Project-KT-Parser)
   * Project-KT-Unyul
-  * Project-T5-EncoderDecoder
+  * [**Project-T5-EncoderDecoder**](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11224121)
 * [**Exobrain General 1st Detail - Development of Intelligent Evolutionary WiseQA Platform Technology for Human Knowledge Augmentation Service**](https://github.com/ShinJM-maker/Multi-Paragraph-Machine-Reading-Comprehension-with-Hybrid-Reader-over-Tables-and-main) (_Ministry of Science and ICT & ETRI, 2020.09 - 2022.12_)
 * [**Development of TTS system for navigation pronunciation system**](https://github.com/ShinJM-maker/Development-of-TTS-system-for-navigation-pronunciation-system) (_Navis Automotive Systems, 2021.02 - 12_)
 * [**Development of online judge program for SW coding education based on artificial intelligence Recommendation System**](https://github.com/ShinJM-maker/AI-based-Online-OJ) (_Next Stage & Pusan National University SW Education Center_, 2020.04 - 09)

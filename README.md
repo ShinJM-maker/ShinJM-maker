@@ -30,7 +30,7 @@
 
 ## 📽️ Projects
 
-### Korea University Human-inspired AI Research
+### https://github.com/ShinJM-maker/Project-KT-Parser/assets/66815358/3d29747a-e0f5-4dc2-a0ec-868ab3c65384 Korea University Human-inspired AI Research
 
 #### Main Project
 * Prediction model for mineral deposits using AI(Korea Institute of Geoscience and Mineral Resources, 2023.06 - )

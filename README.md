@@ -32,7 +32,7 @@
 ### 👔 Korea University Human-inspired AI Research
 
 #### Main Project
-* Prediction model for mineral deposits using AI(Korea Institute of Geoscience and Mineral Resources, 2023.06 - )
+* Prediction model for mineral deposits using AI(Korea Institute of Geoscience and Mineral Resources, 2023.06 - 11.31)
 * Development of multilingual medical consultation chatbot based on Large Language Model(View Plastic Surgery, 2023.05 - )
 
 ### 👔 Pusan National University & PNU AILAB

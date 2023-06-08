@@ -29,15 +29,14 @@
 
 
 ## 📽️ Projects
-### ![image](https://github.com/ShinJM-maker/Project-KT-Parser/assets/66815358/d0fc5bdf-04e4-4fb2-89fb-3ac98727a661) 
-### Korea University Human-inspired AI Research
+### 👔 Korea University Human-inspired AI Research
 
 #### Main Project
 * Prediction model for mineral deposits using AI(Korea Institute of Geoscience and Mineral Resources, 2023.06 - )
 * Development of multilingual medical consultation chatbot based on Large Language Model(View Plastic Surgery, 2023.05 - )
 #### Side Project
 
-### Pusan National University
+### 👔 Pusan National University
 
 #### Main Project
 * Research and development of deep learning-based TTS rhyme boundary prediction(KT, 2021.12 - 2022.11)

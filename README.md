@@ -33,7 +33,7 @@
 
 #### Main Project
 * Prediction model for mineral deposits using AI(_Korea Institute of Geoscience and Mineral Resources, 2023.05 - 11_)
-* Development of multilingual medical consultation chatbot based on Large Language Model(_View Plastic Surgery, 2023.05 - _)
+* Development of multilingual medical consultation chatbot based on Large Language Model(_View Plastic Surgery, 2023.05 -_)
 
 ### 👔 Pusan National University & PNU AILAB
 

@@ -29,7 +29,18 @@
 
 
 ## 📽️ Projects
-### Main Project
+
+### Korea University Human-inspired AI Research
+
+#### Main Project
+* Prediction model for mineral deposits using AI(Korea Institute of Geoscience and Mineral Resources, 2023.06 - )
+* Development of multilingual medical consultation chatbot based on Large Language Model(View Plastic Surgery, 2023.05 - )
+#### Side Project
+* Research and development of deep learning-based TTS rhyme boundary prediction(KT, 2021.12 - 2022.11)
+
+### Pusan National University
+
+#### Main Project
 * Research and development of deep learning-based TTS rhyme boundary prediction(KT, 2021.12 - 2022.11)
   * [**Project-KT-Parser**](https://github.com/ShinJM-maker/Project-KT-Parser)
   * Project-KT-Unyul
@@ -38,7 +49,7 @@
 * [**Development of TTS system for navigation pronunciation system**](https://github.com/ShinJM-maker/Development-of-TTS-system-for-navigation-pronunciation-system) (_Navis Automotive Systems, 2021.02 - 12_)
 * [**Development of online judge program for SW coding education based on artificial intelligence Recommendation System**](https://github.com/ShinJM-maker/AI-based-Online-OJ) (_Next Stage & Pusan National University SW Education Center_, 2020.04 - 09)
 
-### Side Project
+#### Side Project
 * [**Machine reading of economic data**](https://github.com/ShinJM-maker/Machine-reading-of-economic-data)
 * [**Artificial neural network based search engine**](https://github.com/ShinJM-maker/Artificial-neural-network-based-search-engine)
 * [**Development of a VR-based bicycle sales platform applied with a recommendation system**](https://github.com/ShinJM-maker/Development-of-a-VR-based-bicycle-sales-platform-applied-with-a-recommendation-system)

@@ -36,7 +36,7 @@
 * Prediction model for mineral deposits using AI(_, 2023.05 - 11_)
 * Development of multilingual medical consultation chatbot based on Large Language Model(_View Plastic Surgery, 2023.05 -_)
 
-### 👔 Pusan National University & PNU AILAB(_2020.09~_2023.2.24_)
+### 👔 Pusan National University & PNU AILAB(_2016.03~_2023.2.24_)
 
 #### Main Project
 * Research and development of deep learning-based TTS rhyme boundary prediction(_KT, 2021.12 - 2022.11_)

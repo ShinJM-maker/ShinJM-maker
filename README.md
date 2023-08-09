@@ -59,6 +59,9 @@
 
 ## Papers
 
+## CV
+* [**CV**]([https://github.com/](https://drive.google.com/file/d/1hJMQhb_gU_-cZC4-AbwL4hKbBK3TTpOq/view?usp=share_link))
+
 ## 📫 How to reach me
 - tlswndals13@naver.com
 - tlswndals13@korea.ac.kr

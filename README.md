@@ -64,10 +64,11 @@
 - tlswndals13@naver.com
 - tlswndals13@korea.ac.kr
 
-## GitHub stats
-[![Joongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJM-maker)](https://github.com/깃허브아이디/github-readme-stats)
+
 
 <!--
+## GitHub stats
+[![Joongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJM-maker)](https://github.com/깃허브아이디/github-readme-stats)
 ## CV
 * [**CV**]([https://github.com/](https://drive.google.com/file/d/1hJMQhb_gU_-cZC4-AbwL4hKbBK3TTpOq/view?usp=share_link)
 **ShinJM-maker/ShinJM-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

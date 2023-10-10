@@ -1,6 +1,6 @@
 # JOONGMIN SHIN 😉
 
-### NLP Enginner, ML/DL Engineer, Data Scientist
+### NLP Enginner, ML/DL Engineer, Data Scientist, SW Engineer
 
 ## 🧠 Values 
 * The Engineer, not Coder

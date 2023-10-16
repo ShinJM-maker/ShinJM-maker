@@ -33,8 +33,8 @@
 
 #### Main Project
 
-* Prediction model for mineral deposits using AI(_, 2023.08 - 11_)
-* Development of multilingual medical consultation chatbot based on Large Language Model(_View Plastic Surgery, 2023.05 -_)
+* Prediction model for mineral deposits using AI(_, 2023.06 - 11_)
+* Development of multilingual medical consultation chatbot based on Large Language Model(_View Plastic Surgery, 2023.06 -_)
 
 ### 👔 Pusan National University & PNU AILAB(_2016.03~2023.2.24_)
 

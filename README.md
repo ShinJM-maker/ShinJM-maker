@@ -33,8 +33,8 @@
 
 #### Main Project
 * [**KoGemma 개발 프로젝트**](https://github.com/KU-HIAI/Ko-Gemma?tab=readme-ov-file) (_KU NLP Lab & Hiai Research, 2024.02 -)
-* GPT기반 PLC 프로그래밍 어시스턴트 기술 POC 개발(_현대모비스, 2023.09 - 2024.04)
-* 산학 협력모델 추진을 위한 Pilot 프로젝트(_삼성화재, 2023.07 - 2024.01)
+* POC development of GPT-based PLC programming assistant technology (_Hyundai Mobis, 2023.09 - 2024.04)
+* Pilot project to promote industry-academia cooperation model (_Samsung Fire, 2023.07 - 2024.01)
 * Prediction model for mineral deposits using AI(_Korea Institute of Geoscience And Mineral Resources (KIGAM, 2023.06 - 11_)
 * Development of multilingual medical consultation chatbot based on Large Language Model(_Synpase, 2023.06 -_)
 

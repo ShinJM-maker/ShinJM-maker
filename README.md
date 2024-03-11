@@ -32,8 +32,8 @@
 ### 👔 Korea University Human-inspired AI Research(_2023.06.01~_)
 
 #### Main Project
-* [**KoGemma 개발 프로젝트**](https://github.com/KU-HIAI/Ko-Gemma?tab=readme-ov-file) (_KU NLP Lab & Hiai Research, 2024.02 -)
-* POC development of GPT-based PLC programming assistant technology (_Hyundai Mobis, 2023.09 - 2024.04)
+* [**KoGemma 개발 프로젝트**](https://github.com/KU-HIAI/Ko-Gemma?tab=readme-ov-file) (_KU NLP Lab & Hiai Research, 2024.02 -_)
+* POC development of GPT-based PLC programming assistant technology (_Hyundai Mobis, 2023.09 - 2024.04_)
 * [**Pilot project to promote industry-academia cooperation model**](https://www.rightknow.co.kr/news/articleView.html?idxno=26386)(_Samsung Fire, 2023.07 - 2024.01)
 * Prediction model for mineral deposits using AI(_Korea Institute of Geoscience And Mineral Resources (KIGAM, 2023.06 - 11_)
 * Development of multilingual medical consultation chatbot based on Large Language Model(_Synpase, 2023.06 -_)

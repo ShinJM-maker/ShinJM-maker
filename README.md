@@ -20,11 +20,13 @@
 
 ## 🌱 I’m currently learning
 - NLP
-- ML/DL
+- Large Langauge Model(LLM)
+- Parsing
+- Chunking
+- RAG
 - Neurol Symbolic
 - Search Engine
 - TTS System
-- Large Langauge Model(LLM)
 - etc..
 
 

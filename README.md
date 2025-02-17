@@ -37,7 +37,7 @@
 * [**KoGemma Develoment Project**](https://github.com/KU-HIAI/Ko-Gemma?tab=readme-ov-file) (_KU NLP Lab & Hiai Research, 2024.02 -_)
 * POC development of GPT-based PLC programming assistant technology (_Hyundai Mobis, 2023.09 - 2024.04_)
 * [**Pilot project to promote industry-academia cooperation model**](https://www.rightknow.co.kr/news/articleView.html?idxno=26386)(_Samsung Fire, 2023.07 - 2024.01)
-* Prediction model for mineral deposits using AI(_Korea Institute of Geoscience And Mineral Resources (KIGAM, 2023.06 - 11_)
+* [**Prediction model for mineral deposits using AI**](https://news.mt.co.kr/mtview.php?no=2024051417164419103)(_Korea Institute of Geoscience And Mineral Resources (KIGAM, 2023.06 - 11_)
 * Development of multilingual medical consultation chatbot based on Large Language Model(_Synpase, 2023.06 -_)
 
 ### 👔 Pusan National University & PNU AILAB(_2016.03~2023.2.24_)

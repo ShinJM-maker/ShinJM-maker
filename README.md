@@ -24,6 +24,7 @@
 - RAG
 - Parsing
 - Chunking
+- Multi-modal
 - etc..
 
 

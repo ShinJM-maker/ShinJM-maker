@@ -16,11 +16,9 @@ I am seeking **Ph.D. opportunities** to extend this work from static documents t
 
 ## 🔬 Research Interests
 
-I work on question answering over long, multimodal documents. My research topics include:
-
-- **Document structure recovery** (MultiDocFusion, M3DocDep)
-- **Evidence-grounded retrieval** (HiKEY, PILAR)
-- **Memory for document agents** (ADMIT)
+- **Multimodal Parsing** (MultiDocFusion, M3DocDep)
+- **Multimodal Reasoning** (HiKEY, PILAR)
+- **Agent memory** (ADMIT)
 
 ## 📰 News
 

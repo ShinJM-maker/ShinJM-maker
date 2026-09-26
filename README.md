@@ -18,7 +18,7 @@ I am seeking **Ph.D. opportunities** to extend this work from static documents t
 
 - **Multimodal Parsing** (MultiDocFusion, M3DocDep)
 - **Multimodal Reasoning** (HiKEY, PILAR)
-- **Agent memory** (ADMIT)
+- **Agent Memory** (ADMIT)
 
 ## 📰 News
 

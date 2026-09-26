@@ -16,10 +16,13 @@ I am seeking **Ph.D. opportunities** to extend this work from static documents t
 
 ## 🔬 Research Interests
 
-- **Structure-Grounded Multimodal Reasoning**: recovering layout, hierarchy, and cross-page dependencies so models reason over document structure, not flat text.
-- **Evidence-Grounded Information Retrieval & Generation**: hierarchical retrieval and page-grounded evidence representations that make answers traceable to their sources.
-- **Agentic AI & Structured Memory**: controlling what agents commit to memory, so long-horizon reasoning builds only on supported evidence.
-- **Knowledge Graphs and Neural-Symbolic Reasoning**: combining symbolic structure with neural models for interpretable reasoning.
+My research focuses on question answering and retrieval-augmented generation over long, visually rich documents, in which the evidence required for an answer is distributed across pages, tables, and figures. I study how the structure of such documents can be recovered and represented so that retrieval and generation are grounded in verifiable evidence. My current work addresses three related problems:
+
+- **Document structure recovery.** Recovering layout, section hierarchy, and cross-page dependencies from multi-page and multi-document inputs, and using this structure to construct retrieval units (MultiDocFusion, EMNLP 2025; M3DocDep, CVPR 2026).
+- **Evidence-grounded retrieval.** Hierarchical multimodal retrieval and page-grounded evidence representations that link each answer to the source pages that support it (HiKEY, ACL 2026; PILAR, Findings of EMNLP 2026).
+- **Memory for document agents.** Determining which intermediate results a QA agent may write to memory, based on whether they are supported by the evidence the agent has consulted (ADMIT, NeurIPS 2026).
+
+During my M.S., I worked on neural-symbolic approaches to Korean dependency parsing that combine learned parsers with explicit head-dependent constraint rules.
 
 ## 📰 News
 

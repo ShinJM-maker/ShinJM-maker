@@ -77,6 +77,31 @@ I am seeking **Ph.D. opportunities** to extend this work from static documents t
 - Grand Prize, Samsung Fire & Marine Insurance LLM-based MVP Model Idea Competition (2023)
 - Outstanding Paper Awards: KIICE 2023, KSC 2022
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinJM-maker&theme=github_dark">
+    <img alt="GitHub profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShinJM-maker&theme=github" width="100%">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShinJM-maker&theme=github_dark">
+    <img alt="Top languages by repo" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShinJM-maker&theme=github" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShinJM-maker&theme=github_dark">
+    <img alt="Top languages by commit" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShinJM-maker&theme=github" width="49%">
+  </picture>
+</p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=ShinJM-maker&theme=dark&hide_border=true">
+    <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=ShinJM-maker&hide_border=true">
+  </picture>
+</p>
+
 ## 🧰 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)

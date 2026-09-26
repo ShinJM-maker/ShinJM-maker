@@ -1,88 +1,93 @@
-# JOONGMIN SHIN 😉
+# Hi, I'm Joongmin Shin 👋
 
-### NLP Enginner, ML/DL Engineer, Data Scientist, SW Engineer
+**Senior Researcher**, Human-Inspired AI Research Institute, Korea University · **Founder & Lead**, [KUDoc](https://kudocai.github.io/index.html)
 
-## 🧠 Values 
-* The Engineer, not Coder
-* What doesn't kill you makes you stronger
-* The important thing is the uncrushable mind
+I develop structure-grounded multimodal AI systems that turn unstructured inputs (multi-page documents, tables, figures, and video) into structured evidence that models can retrieve, reason over, and verify. I am co-advised by Prof. Jaehyung Seo and Prof. Heuiseok Lim.
 
-## 🥅 Goals
-* Creative Work & Innovation
+I am seeking **Ph.D. opportunities** to extend this work from static documents to structured memory, world models, and planning for agents that act over long horizons.
 
-## 💻 Tech Stack 
+[![Website](https://img.shields.io/badge/Website-shinjm--maker.github.io-1f6feb?logo=githubpages&logoColor=white)](https://shinjm-maker.github.io)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=KKzAjXAAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shinjm-maker)
+[![CV](https://img.shields.io/badge/CV-PDF-B31B1B?logo=adobeacrobatreader&logoColor=white)](https://shinjm-maker.github.io/CV/Curriculum_Vitae_Joongmin_Shin.pdf)
+[![Email](https://img.shields.io/badge/Email-tlswndals13%40korea.ac.kr-555?logo=gmail&logoColor=white)](mailto:tlswndals13@korea.ac.kr)
 
-<img alt="AI" src ="https://img.shields.io/badge/AI-F37626?logo=Jupyter&logoColor=white"/>  <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?logo=Python&logoColor=white"/> <img alt="PyTorch" src ="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"/> <img alt="php" src ="https://img.shields.io/badge/php-777BB4.svg?logo=php&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?logo=Java&logoColor=white"/> <img alt="Linux" src ="https://img.shields.io/badge/Linux-FCC624.svg?logo=Linux&logoColor=white"/> <img alt=" Recommendation System" src ="https://img.shields.io/badge/Recommendation System-252B2D?logo=Nucleo&logoColor=white"/> <img alt="Graph Neural Networks" src ="https://img.shields.io/badge/Graph Neural Networks-1A2477?logo=GraphQL&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/Transformer-DD0B78?logo=Starship&logoColor=white"> <img src="https://img.shields.io/badge/NLP-E50914?logo=netflix&logoColor=white"> <img src="https://img.shields.io/badge/Machine Learning-D9272E?logo=mega&logoColor=white"> <img src="https://img.shields.io/badge/C/C++-00599C?logo=C&logoColor=white"> 
+**15 publications** (first-author papers at NeurIPS, EMNLP, ACL, and CVPR) · **5 patents** · **7 awards** (including 3 Outstanding Paper awards)
 
-## 🔭 I've been working on
-- [**KU HIAI Research**](http://hiai.korea.ac.kr/)(_2023.06.01~_)
-- [**PNU AILAB**](https://ailab.pusan.ac.kr/ailab/index..do)(_2020.09~_2023.2.24_)
+## 🔬 Research Interests
 
-## 🌱 I’m currently learning
-- NLP
-- Large Langauge Model(LLM)
-- RAG
-- Parsing
-- Chunking
-- Multi-modal
-- etc..
+- **Structure-Grounded Multimodal Reasoning**: recovering layout, hierarchy, and cross-page dependencies so models reason over document structure, not flat text.
+- **Evidence-Grounded Information Retrieval & Generation**: hierarchical retrieval and page-grounded evidence representations that make answers traceable to their sources.
+- **Agentic AI & Structured Memory**: controlling what agents commit to memory, so long-horizon reasoning builds only on supported evidence.
+- **Knowledge Graphs and Neural-Symbolic Reasoning**: combining symbolic structure with neural models for interpretable reasoning.
 
+## 📰 News
 
-## 📽️ Projects
-### 👔 Korea University Human-inspired AI Research(_2023.06.01~_)
+- **Sep 2026**: [ADMIT](https://shinjm-maker.github.io/publications/admit.html) accepted at **NeurIPS 2026** (Main, first author).
+- **Aug 2026**: [PILAR](https://shinjm-maker.github.io/publications/pilar.html) accepted at **EMNLP 2026** (Findings, first author).
+- **Apr 2026**: [HiKEY](https://shinjm-maker.github.io/publications/hikey.html) accepted at **ACL 2026** (Main, **Oral**, first author).
+- **Feb 2026**: [M3DocDep](https://shinjm-maker.github.io/publications/m3docdep.html) accepted at **CVPR 2026** (Main, first author).
+- **Aug 2025**: [MultiDocFusion](https://shinjm-maker.github.io/publications/multidocfusion.html) accepted at **EMNLP 2025** (Main, first author).
+- **Aug 2025**: Appointed to the National Representative **K-AI Research Team** (with NC AI).
 
-#### Main Project
-* [**KoGemma Develoment Project**](https://github.com/KU-HIAI/Ko-Gemma?tab=readme-ov-file) (_KU NLP Lab & Hiai Research, 2024.02 -_)
-* POC development of GPT-based PLC programming assistant technology (_Hyundai Mobis, 2023.09 - 2024.04_)
-* [**Pilot project to promote industry-academia cooperation model**](https://www.rightknow.co.kr/news/articleView.html?idxno=26386)(_Samsung Fire, 2023.07 - 2024.01)
-* [**Prediction model for mineral deposits using AI**](https://news.mt.co.kr/mtview.php?no=2024051417164419103)(_Korea Institute of Geoscience And Mineral Resources (KIGAM, 2023.06 - 11_)
-* Development of multilingual medical consultation chatbot based on Large Language Model(_Synpase, 2023.06 -_)
+## 📄 Selected Publications
 
-### 👔 Pusan National University & PNU AILAB(_2016.03~2023.2.24_)
+\* denotes first or co-first author. [All publications →](https://shinjm-maker.github.io/publications.html)
 
-#### Main Project
-* Research and development of deep learning-based TTS rhyme boundary prediction(_KT, 2021.12 - 2022.11_)
-  * [**Project-KT-Parser**](https://github.com/ShinJM-maker/Project-KT-Parser)
-  * Project-KT-Unyul
-  * [**Project-T5-EncoderDecoder**](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11224121)
-* [**Exobrain General 1st Detail - Development of Intelligent Evolutionary WiseQA Platform Technology for Human Knowledge Augmentation Service**](https://github.com/ShinJM-maker/Multi-Paragraph-Machine-Reading-Comprehension-with-Hybrid-Reader-over-Tables-and-main) (_Ministry of Science and ICT & ETRI, 2020.09 - 2022.12_)
-* [**Development of TTS system for navigation pronunciation system**](https://github.com/ShinJM-maker/Development-of-TTS-system-for-navigation-pronunciation-system) (_Navis Automotive Systems, 2021.02 - 12_)
-* [**Development of online judge program for SW coding education based on artificial intelligence Recommendation System**](https://github.com/ShinJM-maker/AI-based-Online-OJ) (_Next Stage & Pusan National University SW Education Center, 2020.04 - 09_)
+- **ADMIT: Support-Gated Memory-Write Admission for Document QA Agents**<br>
+  **Joongmin Shin\***, Gyuho Shim, Hyeonseok Moon, Jaehyung Seo<br>
+  *NeurIPS 2026 (Main)* · [Page](https://shinjm-maker.github.io/publications/admit.html)
+- **PILAR: A Page-Grounded Unified Evidence Representation via an Entity-Linked Assertion Graph for Open-Domain QA Agents over Multimodal Document Corpora**<br>
+  **Joongmin Shin\***, Gyuho Shim, Jung-Hun Lee, Jaehyung Seo<br>
+  *EMNLP 2026 (Findings)* · [Page](https://shinjm-maker.github.io/publications/pilar.html) · [Code](https://github.com/ShinJM-maker/PILAR)
+- **HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering**<br>
+  **Joongmin Shin\***, Gyuho Shim, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
+  *ACL 2026 (Main, Oral)* · [Page](https://shinjm-maker.github.io/publications/hikey.html)
+- **M3DocDep: Multi-modal, Multi-page, Multi-document Dependency Chunking with Large Vision-Language Models**<br>
+  **Joongmin Shin\***, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
+  *CVPR 2026 (Main)* · [Page](https://shinjm-maker.github.io/publications/m3docdep.html) · [Project](https://shinjm-maker.github.io/M3DocDep/)
+- **MultiDocFusion: Hierarchical and Multimodal Chunking Pipeline for Enhanced RAG on Long Industrial Documents**<br>
+  **Joongmin Shin\***, Chanjun Park, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
+  *EMNLP 2025 (Main)* · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1062)
+- **Intelligent Predictive Maintenance RAG Framework for Power Plants: Enhancing QA with StyleDFS and Domain Specific Instruction Tuning**<br>
+  Seongtae Hong\*, **Joongmin Shin\***, Jaehyung Seo, Taemin Lee, Jeongbae Park, Heuiseok Lim<br>
+  *EMNLP 2024 (Industry Track)* · [Paper](https://doi.org/10.18653/v1/2024.emnlp-industry.61)
 
-#### Side Project
-* [**Machine reading of economic data**](https://github.com/ShinJM-maker/Machine-reading-of-economic-data)
-* [**Artificial neural network based search engine**](https://github.com/ShinJM-maker/Artificial-neural-network-based-search-engine)
-* [**Development of a VR-based bicycle sales platform applied with a recommendation system**](https://github.com/ShinJM-maker/Development-of-a-VR-based-bicycle-sales-platform-applied-with-a-recommendation-system)
-* [**A Study on Voice Recognition and Emotion Analysis Using AWS and Artificial Intelligence**](https://github.com/ShinJM-maker/A-Study-on-Voice-Recognition-and-Emotion-Analysis-Using-AWS-and-Artificial-Intelligence)
-* [**Stock data analysis and visualization application development**](https://github.com/ShinJM-maker/Stock-Analyze)
-* [**Pusan National University Department of Computer Engineering dedicated application development**](https://github.com/ShinJM-maker/Pusan-National-University-Department-of-Computer-Engineering-dedicated-application-development)
-* Creation of historical news discovery and sharing platform
-* [**Development of a platform for student classes using VR**](https://github.com/)
+## 💼 Experience
 
-## Papers
+- **KUDoc: Korea University Document AI Research Group**, Founder & Lead (2024 - Present)
+- **Human-Inspired AI Research Institute, Korea University**, Senior Researcher (Jun 2023 - Present)
+- **AI Lab, Pusan National University**, Graduate Researcher (Sep 2020 - Feb 2023)
 
+## 🎓 Education
 
-## 📫 How to reach me
-- tlswndals13@naver.com
-- tlswndals13@korea.ac.kr
+- **M.S. in Artificial Intelligence**, Pusan National University (2021 - 2023), advised by Prof. Hyuk-Chul Kwon
+- **B.S. in Computer Science and Engineering**, Pusan National University (2016 - 2021)
 
+## 🛠️ Selected Projects
 
+- **Foundation models**: National Representative K-AI Research Team, [Ko-Gemma](https://github.com/KU-HIAI/Ko-Gemma), KULLM, Mi:deum K 1.0, Exobrain WiseQA (ETRI)
+- **Document AI & RAG**: DocGraph Copilot, Video Curation System, Science-Domain Korean LLM & RAG Pipeline, Synerpeace (Samsung Fire & Marine), Synapse (multilingual medical consultation)
 
-<!--
-## GitHub stats
-[![Joongmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShinJM-maker)](https://github.com/깃허브아이디/github-readme-stats)
-## CV
-* [**CV**]([https://github.com/](https://drive.google.com/file/d/1hJMQhb_gU_-cZC4-AbwL4hKbBK3TTpOq/view?usp=share_link)
-**ShinJM-maker/ShinJM-maker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[All projects →](https://shinjm-maker.github.io/projects.html)
 
-Here are some ideas to get you started:
+## 🏆 Selected Honors
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Deputy Prime Minister and Minister of Education Award, Competition for Best Practices in Academia–Industry Cooperation (NRF, 2024)
+- Grand Prize, Samsung Fire & Marine Insurance LLM-based MVP Model Idea Competition (2023)
+- Outstanding Paper Awards: KIICE 2023, KSC 2022
+
+## 🧰 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?logo=huggingface&logoColor=black)
+![vLLM](https://img.shields.io/badge/vLLM-30A2FF)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)

@@ -20,7 +20,10 @@ I am seeking **Ph.D. opportunities** to extend this work from static documents t
   - Parsing
   - Retrieval
   - QA
-- **Agent Memory**
+- **Agent**
+  - Knowledge Graph
+  - Ontology
+  - Memory
 
 ## 📰 News
 

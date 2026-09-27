@@ -2,9 +2,8 @@
 
 **Senior Researcher**, Human-Inspired AI Research Institute, Korea University · **Founder & Lead**, [KUDoc](https://kudocai.github.io/index.html)
 
-I develop structure-grounded multimodal AI systems that turn unstructured inputs (multi-page documents, tables, figures, and video) into structured evidence that models can retrieve, reason over, and verify. I am co-advised by Prof. Jaehyung Seo and Prof. Heuiseok Lim.
-
-I am seeking **Ph.D. opportunities** to extend this work from static documents to structured memory, world models, and planning for agents that act over long horizons.
+I work on multimodal reasoning and AI agents, co-advised by Prof. Jaehyung Seo and Prof. Heuiseok Lim.
+I am currently seeking **Ph.D. opportunities**.
 
 [![Website](https://img.shields.io/badge/Website-shinjm--maker.github.io-1f6feb?logo=githubpages&logoColor=white)](https://shinjm-maker.github.io)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=KKzAjXAAAAAJ)

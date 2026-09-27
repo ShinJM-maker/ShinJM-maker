@@ -16,11 +16,10 @@ I am seeking **Ph.D. opportunities** to extend this work from static documents t
 
 ## 🔬 Research Interests
 
-- **Multimodal Parsing**
-- **Multimodal Reasoning**
-  - Document
-  - Video
-  - World Model
+- **Multimodal Reasoning**: Document, Video, World Model
+  - Parsing
+  - Retrieval
+  - QA
 - **Agent Memory**
 
 ## 📰 News

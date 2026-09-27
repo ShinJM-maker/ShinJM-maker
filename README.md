@@ -21,8 +21,7 @@ I am seeking **Ph.D. opportunities** to extend this work from static documents t
   - Retrieval
   - QA
 - **Agent**
-  - Knowledge Graph
-  - Ontology
+  - Knowledge Graph & Ontology
   - Memory
 
 ## 📰 News

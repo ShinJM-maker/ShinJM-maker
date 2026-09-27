@@ -16,12 +16,12 @@ I am seeking **Ph.D. opportunities** to extend this work from static documents t
 
 ## 🔬 Research Interests
 
-- **Multimodal Parsing** (MultiDocFusion, M3DocDep)
+- **Multimodal Parsing**
 - **Multimodal Reasoning**
-  - Document (HiKEY, PILAR)
+  - Document
   - Video
   - World Model
-- **Agent Memory** (ADMIT)
+- **Agent Memory**
 
 ## 📰 News
 

@@ -44,7 +44,7 @@ I am currently seeking **Ph.D. opportunities**.
   *EMNLP 2026 (Findings)* · [Page](https://shinjm-maker.github.io/publications/pilar.html) · [arXiv](https://arxiv.org/abs/2609.32895) · [Code](https://github.com/ShinJM-maker/PILAR)
 - **HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering**<br>
   **Joongmin Shin\***, Gyuho Shim, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
-  *ACL 2026 (Main, Oral)* · [Page](https://shinjm-maker.github.io/publications/hikey.html)
+  *ACL 2026 (Main, Oral)* · [Page](https://shinjm-maker.github.io/publications/hikey.html) · [arXiv](https://arxiv.org/abs/2605.29606)
 - **M3DocDep: Multi-modal, Multi-page, Multi-document Dependency Chunking with Large Vision-Language Models**<br>
   **Joongmin Shin\***, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
   *CVPR 2026 (Main)* · [Page](https://shinjm-maker.github.io/publications/m3docdep.html) · [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Shin_M3DocDep_Multi-modal_Multi-page_Multi-document_Dependency_Chunking_with_Large_Vision-Language_Models_CVPR_2026_paper.html) · [arXiv](https://arxiv.org/abs/2605.18774) · [Project](https://shinjm-maker.github.io/M3DocDep/)

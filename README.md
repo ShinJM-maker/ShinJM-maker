@@ -52,7 +52,7 @@ I am currently seeking **Ph.D. opportunities**.
   **Joongmin Shin\***, Chanjun Park, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
   *EMNLP 2025 (Main)* · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1062) · [arXiv](https://arxiv.org/abs/2604.12352)
 - **Intelligent Predictive Maintenance RAG Framework for Power Plants: Enhancing QA with StyleDFS and Domain Specific Instruction Tuning**<br>
-  Seongtae Hong\*, **Joongmin Shin\***, Jaehyung Seo, Taemin Lee, Jeongbae Park, Heuiseok Lim<br>
+  Seongtae Hong\*, **Joongmin Shin\***, Jaehyung Seo, Taemin Lee, Jeongbae Park, Cho Man Young, Byeongho Choi, Heuiseok Lim<br>
   *EMNLP 2024 (Industry Track)* · [Paper](https://doi.org/10.18653/v1/2024.emnlp-industry.61)
 
 ## 💼 Experience

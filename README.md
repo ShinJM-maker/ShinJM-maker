@@ -50,7 +50,7 @@ I am currently seeking **Ph.D. opportunities**.
   *CVPR 2026 (Main)* · [Page](https://shinjm-maker.github.io/publications/m3docdep.html) · [Paper](https://openaccess.thecvf.com/content/CVPR2026/html/Shin_M3DocDep_Multi-modal_Multi-page_Multi-document_Dependency_Chunking_with_Large_Vision-Language_Models_CVPR_2026_paper.html) · [arXiv](https://arxiv.org/abs/2605.18774) · [Project](https://shinjm-maker.github.io/M3DocDep/)
 - **MultiDocFusion: Hierarchical and Multimodal Chunking Pipeline for Enhanced RAG on Long Industrial Documents**<br>
   **Joongmin Shin\***, Chanjun Park, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
-  *EMNLP 2025 (Main)* · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1062)
+  *EMNLP 2025 (Main)* · [Paper](https://doi.org/10.18653/v1/2025.emnlp-main.1062) · [arXiv](https://arxiv.org/abs/2604.12352)
 - **Intelligent Predictive Maintenance RAG Framework for Power Plants: Enhancing QA with StyleDFS and Domain Specific Instruction Tuning**<br>
   Seongtae Hong\*, **Joongmin Shin\***, Jaehyung Seo, Taemin Lee, Jeongbae Park, Heuiseok Lim<br>
   *EMNLP 2024 (Industry Track)* · [Paper](https://doi.org/10.18653/v1/2024.emnlp-industry.61)

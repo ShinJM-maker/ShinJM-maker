@@ -41,7 +41,7 @@ I am currently seeking **Ph.D. opportunities**.
   *NeurIPS 2026 (Main)* · [Page](https://shinjm-maker.github.io/publications/admit.html)
 - **PILAR: A Page-Grounded Unified Evidence Representation via an Entity-Linked Assertion Graph for Open-Domain QA Agents over Multimodal Document Corpora**<br>
   **Joongmin Shin\***, Gyuho Shim, Jung-Hun Lee, Jaehyung Seo<br>
-  *EMNLP 2026 (Findings)* · [Page](https://shinjm-maker.github.io/publications/pilar.html) · [Code](https://github.com/ShinJM-maker/PILAR)
+  *EMNLP 2026 (Findings)* · [Page](https://shinjm-maker.github.io/publications/pilar.html) · [arXiv](https://arxiv.org/abs/2609.32895) · [Code](https://github.com/ShinJM-maker/PILAR)
 - **HiKEY: Hierarchical Multimodal Retrieval for Open-Domain Document Question Answering**<br>
   **Joongmin Shin\***, Gyuho Shim, Jeongbae Park, Jaehyung Seo, Heuiseok Lim<br>
   *ACL 2026 (Main, Oral)* · [Page](https://shinjm-maker.github.io/publications/hikey.html)
